@@ -1,0 +1,15 @@
+TYPE : int
+ID : i
+ASSIGN : =
+NUM : 10
+SEMI : ;
+
+CONTROL_STMT: while
+L_PAR
+ID : i
+NOT_EQUAL : !=
+NUM : 0
+R_PAR
+L_BRACE
+
+ID : i

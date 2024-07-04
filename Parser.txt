@@ -1,0 +1,6 @@
+Constant: 10
+Variable Assignment
+Statement
+Variable: i
+Constant: 0
+ERROR syntax error
